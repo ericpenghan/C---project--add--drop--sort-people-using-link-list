@@ -1,6 +1,6 @@
 //
 //  buddyList.hpp
-//  Project 4
+//  add, drop, sort people using linklist 
 //
 //  Created by Eric Han on 11/28/18.
 //  Copyright © 2018 Eric Han. All rights reserved.
