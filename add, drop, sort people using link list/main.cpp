@@ -1,6 +1,6 @@
 //-----------------------------------------------------------
-//                  CS 215 - Fall 2018 - Project 4
-//                    Eric Han - 005
+//                  add, drop, sort people using linklist 
+//                    Eric Han 
 //-----------------------------------------------------------
 #include <iostream>
 #include "buddyList.hpp"
